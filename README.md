@@ -29,7 +29,7 @@ Libraries included:
 Running in an IDE:
 
 If you want to run the application in an IDE, such as Intellij IDEA, you should be able to import the entire project into the IDE. Alternatively,
-you can copy entire source files into existing java maven project, add dependencies into maven pom.xml and then run /src/main/java/hoth/main/FamilyTree.java to run application.
+you can copy entire source files into existing java maven project, add dependencies into maven pom.xml and then use /src/main/java/hoth/main/FamilyTree.java to run application.
 
 <hr>
 
