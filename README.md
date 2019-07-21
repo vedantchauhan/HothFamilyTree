@@ -21,7 +21,7 @@ System Requirements:
 
 Libraries included:
     <ul>
-        <li>Junit-4.13-beta-3.jar: This is used for unit testing of the application. All Unit tests are written in /src/test/java/hoth/utility/RelationshipUtilityTest.java.</li>
+        <li>Junit-4.13-beta-3: This is added as a maven dependency for unit testing of the application. All Unit tests are written in /src/test/java/hoth/utility/RelationshipUtilityTest.java.</li>
     </ul>
     
 <hr>
