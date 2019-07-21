@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="HothFamilyTree:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/HothFamilyTree_jar</output-path>
+    <root id="archive" name="HothFamilyTree.jar">
+      <element id="module-output" name="HothFamilyTree" />
+    </root>
+  </artifact>
+</component>
