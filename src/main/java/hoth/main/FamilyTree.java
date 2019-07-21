@@ -76,6 +76,9 @@ public class FamilyTree {
                     if (input[0].contains("Person") && input[1].contains("Relation")) {
                         String[] person = input[0].split(" = ");
                         String[] relation = input[1].split(" = ");
+                        if(person.length == 1 || relation.length == 1){
+                            throw new InvalidArgumentException("Invalid Argument");
+                        }
                         //Getting the person name
                         String name = person[1];
                         String value = relation[1].toUpperCase();
